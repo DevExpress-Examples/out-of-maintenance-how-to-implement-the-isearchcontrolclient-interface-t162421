@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FormSearchProvider.cs](./CS/FormSearchProvider.cs) (VB: [FormSearchProvider.vb](./VB/FormSearchProvider.vb))
+* **[SearchForm.cs](./CS/SearchForm.cs) (VB: [SearchForm.vb](./VB/SearchForm.vb))**
+<!-- default file list end -->
 # How to implement the ISearchControlClient interface
 
 
